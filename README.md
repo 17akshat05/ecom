@@ -76,5 +76,4 @@ Submit a pull request.
 📬 Contact
 For any questions or feedback, feel free to contact:
 
-Lavi bansal
-email: bansallavi37@gmail.com
+Akshat Jain 
